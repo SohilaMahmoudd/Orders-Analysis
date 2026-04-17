@@ -42,7 +42,3 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 * Power BI Visualization
 * UI/UX Design
 * Interactive Reporting
-
-📁 Feel free to explore the project and share your feedback!
-
-#PowerBI #DataAnalytics #BusinessIntelligence #GitHubProjects #DataVisualization
