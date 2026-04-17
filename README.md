@@ -4,6 +4,8 @@ An interactive Power BI dashboard using the **Adventure Works dataset**.
 🔧 **Project Overview**
 The main goal was to design a clean, dynamic, and user-friendly dashboard that provides meaningful insights into sales performance, orders, and customer behavior.
 
+---
+
 📊 **Key Features**
 
 * **Data Modeling (Star Schema)**
@@ -30,6 +32,8 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 
 * **Dashboard Design**
   Focused on clean layout, clear KPIs, and intuitive interactions to improve usability.
+
+  ---
 
 🧠 **Skills Applied**
 
