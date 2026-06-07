@@ -46,6 +46,5 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 ---
 
 **First Page**
-## Executive Overview
 
-![First Page](Images/First Page.png)
+<img src="Images/First Page.png" width="800">
