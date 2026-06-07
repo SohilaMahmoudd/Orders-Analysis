@@ -44,8 +44,14 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 * Interactive Reporting
 
 ---
-
+**Dashboards**
 <p align="center">
   <img src="Images/First Page.png" width="700">
   <img src="Images/Second Page.png" width="700">
+</p>
+
+---
+**Star Schema**
+<p align="center">
+  <img src="Images/Star Schema.png" width="700">
 </p>
