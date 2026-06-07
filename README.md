@@ -45,6 +45,7 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 
 ---
 
-**First Page**
-
-<img src="Images/First Page.png" width="800">
+<p align="center">
+  <img src="images/First Page.png" width="400">
+  <img src="images/Second Page.png" width="400">
+</p>
