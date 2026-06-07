@@ -33,7 +33,7 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 * **Dashboard Design**
   Focused on clean layout, clear KPIs, and intuitive interactions to improve usability.
 
-  ---
+---
 
 🧠 **Skills Applied**
 
