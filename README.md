@@ -48,4 +48,4 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 **First Page**
 ## Executive Overview
 
-![Executive Overview](Images/First Page.png)
+![First Page](Images/First Page.png)
