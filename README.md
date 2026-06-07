@@ -42,3 +42,10 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 * Power BI Visualization
 * UI/UX Design
 * Interactive Reporting
+
+---
+
+**First Page**
+## Executive Overview
+
+![Executive Overview](Images/First Page.png)
