@@ -1,5 +1,6 @@
 # Orders Analysis
 An interactive Power BI dashboard using the **Adventure Works dataset**.
+---
 
 # Project Overview
 The main goal was to design a clean, dynamic, and user-friendly dashboard that provides meaningful insights into sales performance, orders, and customer behavior.
