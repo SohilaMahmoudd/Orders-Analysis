@@ -51,7 +51,7 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 </p>
 
 ---
-**Star Schema**
+# Star Schema
 <p align="center">
   <img src="Images/Star Schema.png" width="700">
 </p>
