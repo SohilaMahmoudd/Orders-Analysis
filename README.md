@@ -1,12 +1,12 @@
 # Orders Analysis
 An interactive Power BI dashboard using the **Adventure Works dataset**.
 
-🔧 **Project Overview**
+# Project Overview
 The main goal was to design a clean, dynamic, and user-friendly dashboard that provides meaningful insights into sales performance, orders, and customer behavior.
 
 ---
 
-📊 **Key Features**
+# Key Features
 
 * **Data Modeling (Star Schema)**
   Built a structured data model using fact and dimension tables to improve performance and simplify analysis.
@@ -35,15 +35,15 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 
 ---
 
-🧠 **Skills Applied**
-
+# Skills Applied
 * Data Modeling
 * DAX
 * Power BI Visualization
 * Interactive Reporting
 
 ---
-**Dashboards Preview**
+
+# Dashboards Preview
 <p align="center">
   <img src="Images/First Page.png" width="700">
   <img src="Images/Second Page.png" width="700">
