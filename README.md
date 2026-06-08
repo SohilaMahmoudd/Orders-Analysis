@@ -40,7 +40,6 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 * Data Modeling
 * DAX
 * Power BI Visualization
-* UI/UX Design
 * Interactive Reporting
 
 ---
