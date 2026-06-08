@@ -43,7 +43,7 @@ The main goal was to design a clean, dynamic, and user-friendly dashboard that p
 * Interactive Reporting
 
 ---
-**Dashboards Overview**
+**Dashboards Preview**
 <p align="center">
   <img src="Images/First Page.png" width="700">
   <img src="Images/Second Page.png" width="700">
